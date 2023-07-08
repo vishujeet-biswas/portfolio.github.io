@@ -67,7 +67,7 @@ firebase init   # Initialize your Firebase project (select Hosting)
 firebase deploy # Deploy the website to Firebase Hosting
 ```
 
-6. Your portfolio website is now hosted on Firebase. Access it using the provided URL.
+6. Your portfolio website is now hosted on Firebase. Access it using the URL(https://vishujeet-biswas-portfol-180e2.web.app/).
 
 ## License
 
@@ -77,8 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, suggestions, or would like to collaborate, please feel free to reach out to me. You can contact me at:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [Vishujeet Biswas]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/vishujeet-biswas/))
+- Twitter: [@thevishhuwayy](https://twitter.com/thevishhuwayy)
 
 Thank you for visiting my portfolio website repository! I look forward to connecting with you.
