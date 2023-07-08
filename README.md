@@ -77,7 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, suggestions, or would like to collaborate, please feel free to reach out to me. You can contact me at:
 
-- LinkedIn: [Vishujeet Biswas]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/vishujeet-biswas/))
+- LinkedIn: [Vishujeet Biswas](https://www.linkedin.com/in/vishujeet-biswas/)
 - Twitter: [@thevishhuwayy](https://twitter.com/thevishhuwayy)
 
 Thank you for visiting my portfolio website repository! I look forward to connecting with you.
