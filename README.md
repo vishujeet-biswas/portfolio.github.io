@@ -1,5 +1,7 @@
 # Portfolio Website
 
+![ORSS Logo](img/Portfolio.png)
+
 Welcome to my portfolio website repository! This repository contains the source code and assets for my personal portfolio website.
 
 ## Introduction
